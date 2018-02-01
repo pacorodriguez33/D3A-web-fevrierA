@@ -19,9 +19,9 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 .clearfix:after { clear: both; }
 
 body {
-    font-family: 'Lato', Calibri, Arial, sans-serif;
+  font-family: 'PT Mono', monospace;
     color: #fff;
-    background: #47a3da;
+    background: #ffcccc;
 }
 
 a {
@@ -34,6 +34,7 @@ a:hover {
 }
 
 .container > header {
+	font-family: 'Shadows Into Light', cursive;
 	width: 90%;
 	max-width: 69em;
 	margin: 0 auto;
@@ -122,7 +123,7 @@ a:hover {
 }
 
 .bp-icon:after {
-	font-family: 'bpicons';
+	font-family: 'Shadows Into Light', cursive;
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
